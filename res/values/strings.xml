@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject_ITStep</string>
+    <string name="ReadPlate">Определить номер</string>
+    <string name="start">Начать</string>
+    <string name="about">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="aboutText">Итоговый проект ITStep - Минск    Возможности:  1:Определение регистрационных знаков Республики беларусь.  2:Распознание текста на рег.номере</string>
+    <string name="creater">--created by asyan4ik--</string>
+    <string name="titleAbout">ITStep final project</string>
+</resources>
